@@ -5,19 +5,19 @@ This project is new slate console based
 <hr>
 
 
- Key Functionalities:
- Admin Side
- 1- Add Student
- 2- Delete Student
- 3- Add Attendance
- 4- Add Marks
- 5- Assign/Change Password
- 6- Show All students
- Student Side
- 1- View Personal Information
- 2- View Marks
- 3- View Attendance
- 4- Change Password
+ Key Functionalities:<br>
+ Admin Side<br>
+ 1- Add Student<br>
+ 2- Delete Student<br>
+ 3- Add Attendance<br>
+ 4- Add Marks<br>
+ 5- Assign/Change Password<br>
+ 6- Show All students<br>
+ Student Side<br>
+ 1- View Personal Information<br>
+ 2- View Marks<br>
+ 3- View Attendance<br>
+ 4- Change Password<br>
 
  <hr>
 
